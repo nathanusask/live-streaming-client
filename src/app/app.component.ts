@@ -13,6 +13,7 @@ interface Media {
 })
 export class AppComponent {
     name = 'Angular';
+    // TODO change the followings to call streaming
     playlist = [
         {
             title: 'Pale Blue Dot',
